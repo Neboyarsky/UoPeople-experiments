@@ -1,4 +1,4 @@
-#entering one of two operands
+#entering one of two operands for PA5
 def input_number():
     n = None
     while n is None:
